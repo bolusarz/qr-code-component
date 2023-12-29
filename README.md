@@ -23,8 +23,7 @@ This is a simple Qr Code Component showcasing how with a little bit of css, a we
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Qr Code Site](https://bolusarz.github.io/qr-code-component/)
 
 ## My process
 I started out with writing out the html structure. Once I got the hang of that, I proceeded to styling using the top-down approach. Little back and forth from Vs Code to Browser and we have our final result
